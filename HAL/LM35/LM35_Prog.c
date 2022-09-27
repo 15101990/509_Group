@@ -9,7 +9,6 @@
 
 void H_LM35_Void_LM35Init(void)
 {
-	M_ADC_Void_ADCInit();
 }
 u16  H_LM35_Void_LM35Read(void)
 {
